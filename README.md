@@ -5,7 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=092vk" alt="092vk" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">
+  <a href="https://www.linkedin.com/in/vk092/">Connect with me</a>
+</h3>
+<h3 align="left">
+  <a href="https://vivekray.netlify.app/">My Portfolio</a>
+</h3>
+
 <p align="left">
 </p>
 <p>My Badges </p>
