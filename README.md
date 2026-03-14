@@ -4,7 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=092vk&label=Profile%20views&color=0e75b6&style=flat" alt="092vk" /> </p>
 
 ![Linux](https://img.shields.io/badge/Linux-000?logo=linux)
-![C](https://img.shields.io/badge/C-00599C?logo=c)
 ![Kernel](https://img.shields.io/badge/Linux-Kernel-red)
 
 <h3 align="left">
