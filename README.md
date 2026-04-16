@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vivek Ray</h1>
-<h3 align="center">Software Developer | Systems & Web Enthusiast</h3>
+<h3 align="center">Software Developer | Linux Kernel & Systems </h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=092vk&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -9,14 +9,8 @@
 
 ### 🚀 About Me
 -  Software Developer with focus on systems + web
--  Interested in Linux, Kernel, Embedded Systems & AI
+-  Currently working on Linux, Kernel, Embedded Systems & AI
 -  Always learning and building
-
----
-
-### 🔗 Connect with Me
--  Portfolio: https://vivekray.netlify.app/
--  LinkedIn: https://www.linkedin.com/in/vk092/
 
 ---
 
@@ -56,3 +50,9 @@
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=092vk" />
 </p>
+
+### 🔗 Connect with Me
+-  Portfolio: https://vivekray.netlify.app/
+-  LinkedIn: https://www.linkedin.com/in/vk092/
+
+---
