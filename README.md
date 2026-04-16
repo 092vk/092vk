@@ -5,16 +5,14 @@
   <img src="https://komarev.com/ghpvc/?username=092vk&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
----
 
-### 🚀 About Me
+###  About Me
 -  Software Developer with focus on systems + web
 -  Currently working on Linux, Kernel, Embedded Systems & AI
 -  Always learning and building
 
----
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 <p align="left">
 <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40"/> </a>
@@ -35,7 +33,6 @@
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/> </a>
 </p>
 
----
 
 ### GitHub Stats
 
@@ -55,4 +52,3 @@
 -  Portfolio: https://vivekray.netlify.app/
 -  LinkedIn: https://www.linkedin.com/in/vk092/
 
----
